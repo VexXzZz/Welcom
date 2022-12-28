@@ -33,7 +33,7 @@ Enter.TextScaled = true
 Enter.TextSize = 14.000
 Enter.TextWrapped = true
 Enter.MouseButton1Click:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Airstrika/Insert/main/Vehicle"))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripterhub/Da-Hood-Fling/main/Main.lua"))()
 end)
 
 UICorner_2.Parent = Enter
